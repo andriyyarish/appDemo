@@ -1,0 +1,22 @@
+***** progress bar (start create inspection):
+<p class="app-field-title" style="font-size: 12.5px;" id="app_popgress_popup_status">Creating Inspection Sections 6 of 7...</p>
+
+
+***** loader circle
+// //"span[@class='ui-icon-loading']"
+        // //"div[@class='ui-loader-background']"
+
+**** 1 step
+
+-remove All
+<a id="inspection_remove_all_areas_btn"
+class="ui-btn ui-mini ui-btn-right ui-icon-delete ui-btn-icon-left ui-corner-all">Remove All</a>
+
+- select ALL
+<a id="inspection_select_all_areas_btn"
+class="ui-btn ui-mini ui-btn-right ui-icon-check ui-btn-icon-left ui-corner-all">Select All</a>
+
+- <a id="inspection_save_btn"
+class="ui-btn ui-icon-app-save ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini app-btn-action">Save Progress</a>
+
+
